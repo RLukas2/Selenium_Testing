@@ -1,0 +1,18 @@
+=URL=https://forms.gle/atzNUQsobZVEhsWn9
+
+Họ và tên=T1=Ngô Hoàng Tuấn
+liên lạc của học sinh=T2=0769702975
+liên lạc của Phụ huynh=T3=0767021958
+Quận/Huyện=T4=Quận 8
+Địa chỉ nơi đang ở=T5=2805/74, Phạm Thế Hiển, Phường 7, Quận 8, Thành phố Hồ Chí Minh
+
+Lớp=C1=11CTIN-A
+
+Hiện tại học sinh thuộc diện liên quan COVID-19 do y tế địa phương thông báo xác nhận (nếu có - HS khai báo chính xác vì thông tin sẽ được báo cáo cho các đơn vị Y tế)=C2=Học sinh không thuộc diện F0, F1, F2 và F3.
+Nơi ở hiện tại của học sinh:=C3=Không thuộc khu vực bị phong tỏa
+Từ ngày 30/4/2021 đến nay, học sinh có di chuyển RỜI TP.HCM đến địa phương CÓ DỊCH COVID-19 không?=C4=Không
+Hiện tại PHỤ HUYNH HS (sống chung nhà cùng học sinh) thuộc diện liên quan COVID-19 do y tế địa phương thông báo xác nhận (nếu có - HS khai báo chính xác vì thông tin sẽ được báo cáo cho các đơn vị Y tế):=C5=Không thuộc diện F0, F1, F2 và F3.
+Từ ngày 30/4/2021 đến nay, PHỤ HUYNH HS (sống chung nhà cùng học sinh) có di chuyển RỜI TP.HCM đến địa phương CÓ DỊCH COVID-19 không?=C6=Không
+
+Tình hình sức khỏe hiện nay của học sinh=B1=Bình thường
+Học sinh cam kết=B2=Em đảm bảo và chịu trách nhiệm về sự chính xác của các nội dung trên
